@@ -19,7 +19,7 @@ chapter: false
 
 &emsp; **Email:** tanphaaat@gmail.com
 
-&emsp; **University:** HUTECH University of Technology
+&emsp; **University:** Ho Chi Minh University of Technology HCM-HUTECH
 
 &emsp; **Major:** Information Technology
 

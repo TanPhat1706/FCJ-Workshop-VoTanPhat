@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-During my internship at Amazon Web Services Viet Nam Company Limited from April 17, 2026, to July 15, 2026, I had the invaluable opportunity to learn, practice, and translate my academic foundation into practical capabilities within a world-class corporate environment.
+During my internship at Bootcamp - First Cloud AI Journey from April 15, 2026, to July 15, 2026, I had the invaluable opportunity to learn, practice, and translate my academic foundation into practical capabilities within a world-class corporate environment.
 
 Participating in the "Mini Social Network" project as a DevOps Engineer, I actively honed and upgraded my core skill sets: automation programming, leveraging AI in workflows, cloud architecture design, CI/CD deployment, and practical project operations. In particular, my system troubleshooting and error resolution skills in the cloud environment, alongside my problem-solving mindset and teamwork, have significantly improved.
 

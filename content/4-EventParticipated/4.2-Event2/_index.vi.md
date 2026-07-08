@@ -1,5 +1,5 @@
 ---
-title: "FCAJ AWS Cloud Architect"
+title: "Event 2"
 date: 2026-06-20
 weight: 2
 chapter: false
@@ -11,6 +11,10 @@ pre: " <b> 4.2. </b> "
 {{% /notice %}} -->
 
 # Bài thu hoạch Cuộc thi “FCAJ AWS Cloud Architect”
+
+<figure align="center">
+  <img src="/images/4-EventParticipated/4.2-Event2/0.png" width="100%">
+</figure>
 
 ### Mục Đích Của Sự Kiện
 

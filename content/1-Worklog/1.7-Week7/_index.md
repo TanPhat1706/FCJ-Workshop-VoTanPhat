@@ -18,8 +18,8 @@ pre: " <b> 1.7. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2 | **Frontend API Endpoint Configuration:** <br> - Modified environment configuration files within the React+Vite source code. <br> - Replaced local API endpoints with the project's production-ready AWS Application Load Balancer (ALB) URL to unify Client-Server communication. | 06/01/2026 | 06/01/2026 | |
-| 3 | **Production Build & AWS S3 Static Website Hosting:** <br> - Compiled the source code into an optimized production bundle using Vite build tools. <br> - Provisioned and configured an AWS S3 bucket for Static Website Hosting. <br> - Uploaded the build artifacts and configured necessary bucket policies to successfully expose the public web interface link. | 06/02/2026 | 06/02/2026 | |
+| 2 | **Frontend API Endpoint Configuration:** <br> - Modified environment configuration files within the React+Vite source code. <br> - Replaced local API endpoints with the project's production-ready AWS Application Load Balancer (ALB) URL to unify Client-Server communication. | 06/01/2026 | 06/01/2026 | https://github.com/pht1412/Mini-Social-Network |
+| 3 | **Production Build & AWS S3 Static Website Hosting:** <br> - Compiled the source code into an optimized production bundle using Vite build tools. <br> - Provisioned and configured an AWS S3 bucket for Static Website Hosting. <br> - Uploaded the build artifacts and configured necessary bucket policies to successfully expose the public web interface link. | 06/02/2026 | 06/02/2026 | https://github.com/pht1412/Mini-Social-Network |
 | 5 | **Team meeting and study:** <br> - Study, work and team meeting at AWS office. | 06/04/2026 | 06/04/2026 | |
 
 

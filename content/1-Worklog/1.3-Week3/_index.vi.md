@@ -34,12 +34,12 @@ pre: " <b> 1.3. </b> "
 
 <figure align="center">
   <img src="/images/1-Worklog/1.3-Week3/2.png"  width="100%">
-  <figcaption><i>Hình 2: Đăng tải thành công một tệp hình ảnh lên Amazon S3 từ ứng dụng local Spring Boot</i></figcaption>
+  <figcaption><i>Hình 2: Đăng tải thành công một tệp hình ảnh lên Amazon S3 từ ứng dụng local Spring Boot (Postman)</i></figcaption>
 </figure>
 
 <figure align="center">
   <img src="/images/1-Worklog/1.3-Week3/3.png"  width="100%">
-  <figcaption><i>Hình 3: Đăng tải thành công một tệp hình ảnh lên Amazon S3 từ ứng dụng local Spring Boot</i></figcaption>
+  <figcaption><i>Hình 3: Đăng tải thành công một tệp hình ảnh lên Amazon S3 từ ứng dụng local Spring Boot (S3 Bucket)</i></figcaption>
 </figure>
 
 <figure align="center">

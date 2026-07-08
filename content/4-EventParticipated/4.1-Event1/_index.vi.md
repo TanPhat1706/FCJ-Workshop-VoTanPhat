@@ -1,5 +1,5 @@
 ---
-title: "FCAJ Community Day - May"
+title: "Event 1"
 date: 2026-05-23
 weight: 1
 chapter: false
@@ -11,6 +11,10 @@ pre: " <b> 4.1. </b> "
 {{% /notice %}} -->
 
 # Bài thu hoạch “FCAJ Community Day (Tháng 5)”
+
+<figure align="center">
+  <img src="/images/4-EventParticipated/4.1-Event1/0.png" width="100%">
+</figure>
 
 ### Mục Đích Của Sự Kiện
 
@@ -100,47 +104,11 @@ Tham gia **FCAJ Community Day** tại tòa nhà Bitexco là một cơ hội tuy�
 </figure>
 
 <figure align="center">
-  <img src="/images/4-EventParticipated/4.1-Event1/2.png" width="100%">
-</figure>
-
-<figure align="center">
-  <img src="/images/4-EventParticipated/4.1-Event1/3.png" width="100%">
-</figure>
-
-<figure align="center">
-  <img src="/images/4-EventParticipated/4.1-Event1/4.png" width="100%">
-</figure>
-
-<figure align="center">
   <img src="/images/4-EventParticipated/4.1-Event1/5.png" width="100%">
 </figure>
 
 <figure align="center">
-  <img src="/images/4-EventParticipated/4.1-Event1/6.png" width="100%">
-</figure>
-
-<figure align="center">
-  <img src="/images/4-EventParticipated/4.1-Event1/7.png" width="100%">
-</figure>
-
-<figure align="center">
   <img src="/images/4-EventParticipated/4.1-Event1/8.png" width="100%">
-</figure>
-
-<figure align="center">
-  <img src="/images/4-EventParticipated/4.1-Event1/9.png" width="100%">
-</figure>
-
-<figure align="center">
-  <img src="/images/4-EventParticipated/4.1-Event1/10.png" width="100%">
-</figure>
-
-<figure align="center">
-  <img src="/images/4-EventParticipated/4.1-Event1/11.png" width="100%">
-</figure>
-
-<figure align="center">
-  <img src="/images/4-EventParticipated/4.1-Event1/12.png" width="100%">
 </figure>
 
 > Sự kiện đã mang lại cho em những kiến thức thực tế quý giá, từ việc triển khai hệ thống phân tán trên AWS đến việc ứng dụng AI một cách thông minh và có kiểm soát vào các dự án phần mềm.

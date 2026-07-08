@@ -1,5 +1,5 @@
 ---
-title: "FCAJ Community Day - June"
+title: "Event 3"
 date: 2026-06-27
 weight: 3
 chapter: false
@@ -11,6 +11,10 @@ pre: " <b> 4.3. </b> "
 {{% /notice %}} -->
 
 # Summary Report: “FCAJ Community Day (June)”
+
+<figure align="center">
+  <img src="/images/4-EventParticipated/4.3-Event3/0.png" width="100%">
+</figure>
 
 ### Event Objectives
 

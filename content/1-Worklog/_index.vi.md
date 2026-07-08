@@ -8,8 +8,6 @@ pre: " <b> 1. </b> "
 
 Nhật ký công việc này ghi chép lại toàn bộ quá trình thực tập của em tại chương trình **First Cloud AI Journey (FCAJ) - AWS**. Quá trình này không chỉ giúp em xây dựng nền tảng vững chắc về hệ sinh thái Điện toán đám mây AWS mà còn mang lại cơ hội áp dụng trực tiếp các kiến thức đó vào việc phát triển, tối ưu hóa và triển khai một dự án Fullstack thực tế (Spring Boot & ReactJS).
 
-Thông thường và cũng là tiêu chuẩn, một worklog được thực hiện trong khoảng 3 tháng (trong suốt thời gian thực tập) với nội dung các tuần như sau:
-
 **Tuần 1:** [Hoàn thành khóa học "AWS Cloud Practitioner Essentials" và nắm vững nền tảng Cloud](1.1-week1/)
 
 **Tuần 2:** [Thực hành các dịch vụ cốt lõi của AWS (IAM, VPC, EC2, S3, RDS) qua Hands-on Labs](1.2-week2/)

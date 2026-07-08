@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Trong suốt thời gian thực tập tại Công ty TNHH Amazon Web Services Việt Nam từ ngày 15/04/2026 đến 15/07/2026, em đã có cơ hội quý giá để học hỏi, rèn luyện và chuyển hóa những kiến thức nền tảng tại trường thành năng lực thực chiến trong một môi trường doanh nghiệp chuẩn quốc tế.
+Trong suốt thời gian thực tập tại Bootcamp - First Cloud AI Journey từ ngày 15/04/2026 đến 15/07/2026, em đã có cơ hội quý giá để học hỏi, rèn luyện và chuyển hóa những kiến thức nền tảng tại trường thành năng lực thực chiến trong một môi trường doanh nghiệp chuẩn quốc tế.
 
 Tham gia vào dự án "Mini Social Network" với vai trò DevOps, em đã trực tiếp mài giũa và nâng cấp các bộ kỹ năng cốt lõi: lập trình tự động hóa, ứng dụng AI vào quy trình làm việc, thiết kế kiến trúc đám mây, triển khai CI/CD và vận hành dự án thực tế. Đặc biệt, kỹ năng xử lý sự cố (troubleshooting) và sửa lỗi ứng dụng trên môi trường đám mây, cùng tư duy giải quyết vấn đề và năng lực làm việc nhóm của em đã tiến bộ rõ rệt.
 

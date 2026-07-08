@@ -10,8 +10,6 @@ pre: " <b> 1. </b> "
 
 This worklog documents my complete internship journey at the **First Cloud AI Journey (FCAJ) - AWS** program. This process not only helped me build a solid theoretical foundation in the AWS Cloud ecosystem but also provided the opportunity to directly apply that knowledge to develop, optimize, and deploy a real-world Fullstack project (Spring Boot & ReactJS).
 
-Typically, and as a standard, a worklog is carried out over about 3 months (throughout the internship period) with weekly contents as follows:
-
 **Week 1:** [Completing the "AWS Cloud Practitioner Essentials" course and mastering Cloud fundamentals](1.1-week1/)
 
 **Week 2:** [Practicing core AWS services (IAM, VPC, EC2, S3, RDS) through Hands-on Labs](1.2-week2/)

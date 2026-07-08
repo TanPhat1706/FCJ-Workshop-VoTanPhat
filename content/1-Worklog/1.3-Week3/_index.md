@@ -40,12 +40,12 @@ pre: " <b> 1.3. </b> "
 
 <figure align="center">
   <img src="/images/1-Worklog/1.3-Week3/2.png"  width="100%">
-  <figcaption><i>Picture 2: Successfully uploaded an image asset to Amazon S3 from a local Spring Boot application</i></figcaption>
+  <figcaption><i>Picture 2: Successfully uploaded an image asset to Amazon S3 from a local Spring Boot application (Postman)</i></figcaption>
 </figure>
 
 <figure align="center">
   <img src="/images/1-Worklog/1.3-Week3/3.png"  width="100%">
-  <figcaption><i>Picture 3: Successfully uploaded an image asset to Amazon S3 from a local Spring Boot application</i></figcaption>
+  <figcaption><i>Picture 3: Successfully uploaded an image asset to Amazon S3 from a local Spring Boot application (S3 Bucket)</i></figcaption>
 </figure>
 
 <figure align="center">
