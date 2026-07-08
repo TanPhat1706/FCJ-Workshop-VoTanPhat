@@ -19,9 +19,9 @@ chapter: false
 
 &emsp; **Lớp:** 22DTHC7
 
-&emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Viet Nam
+&emsp; **Công ty thực tập:** Bootcamp - First Cloud AI Journey
 
-&emsp; **Vị trí thực tập:** Workforce Bootcamp - First Cloud AI Journey
+&emsp; **Vị trí thực tập:** Cloud Engineer
 
 &emsp; **Thời gian thực tập:** Từ ngày 15/04/2026 đến ngày 15/07/2026
 

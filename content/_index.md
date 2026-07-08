@@ -25,9 +25,9 @@ chapter: false
 
 &emsp; **Class:** 22DTHC7
 
-&emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
+&emsp; **Internship Company:** Bootcamp - First Cloud AI Journey
 
-&emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
+&emsp; **Internship Position:** Cloud Engineer
 
 &emsp; **Internship Duration:** From 04/15/2026 to 07/15/2026
 
